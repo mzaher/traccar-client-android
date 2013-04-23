@@ -1,4 +1,7 @@
+[![Build Status](https://travis-ci.org/mzaher/traccar-client-android.png)](https://travis-ci.org/mzaher/traccar-client-android)
+
     traccar-client
+==========================
 
 Web page - http://www.traccar.org
 
